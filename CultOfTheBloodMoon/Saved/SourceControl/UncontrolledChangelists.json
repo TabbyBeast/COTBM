@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/dusty/OneDrive/Documents/GitHub/CultOfTheBloodMoon/Content/UI/WB_HealthBar.uasset",
+				"C:/Users/dusty/OneDrive/Documents/GitHub/CultOfTheBloodMoon/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/Users/dusty/OneDrive/Documents/GitHub/CultOfTheBloodMoon/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/dusty/OneDrive/Documents/GitHub/CultOfTheBloodMoon/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/83/JEYBIGXS86DGK6EPPMG0QU.uasset",
 				"C:/Users/dusty/OneDrive/Documents/GitHub/COTBM/CultOfTheBloodMoon/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"C:/Users/dusty/OneDrive/Documents/GitHub/COTBM/CultOfTheBloodMoon/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/JK/OVR7J1KIX8H6MEM5202PM6.uasset",
 				"D:/OneDrive/Documents/Unreal Projects/CultOfTheBloodMoon/Content/Assets/Environment/Material_001.uasset",
